@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- Device Tree -->
+	<project path="device/xiaomi/topaz" name="ChresthaManish/device_xiaomi_topaz" remote="github" revision="14.0" />
+	<!-- Vendor Tree -->
+	<project path="vendor/xiaomi/topaz" name="ChresthaManish/vendor_xiaomi_topaz" remote="github" revision="14.0" />
+	<!-- Kernel Tree -->
+	<project path="kernel/xiaomi/topaz" name="ChresthaManish/kernel_xiaomi_topaz" remote="github" revision="14.0" />
+	<!-- Sepolicy -->
+	<project path="device/qcom/sepolicy_vndr/sm6225" name="ChresthaManish/device_qcom_sepolicy_vndr_sm6225" remote="github" revision="lineage-21.0-caf-sm6225" />
+	<!-- Xiaomi Hardware -->
+	<project path="hardware/xiaomi" name="PixelOS-AOSP/hardware_xiaomi" remote="github" revision="fourteen" />
+	<!-- Hal's -->
+	<project path="hardware/qcom-caf/sm6225/audio/primary-hal" name="ChresthaManish/hardware_qcom-caf_sm6225_audio_primary-hal" remote="github" revision="lineage-21.0-caf-sm6225" />
+</manifest>                                                                                                                                    
