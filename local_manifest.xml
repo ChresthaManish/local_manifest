@@ -5,7 +5,7 @@
 	<!-- Vendor Tree -->
 	<project path="vendor/xiaomi/topaz" name="ChresthaManish/vendor_xiaomi_topaz" remote="github" revision="14.0" />
 	<!-- Kernel Tree -->
-	<project path="kernel/xiaomi/topaz" name="ChresthaManish/kernel_xiaomi_topaz" remote="github" revision="14.0" />
+	<project path="device/xiaomi/topaz-kernel" name="ChresthaManish/kernel_xiaomi_topaz" remote="github" revision="14.0" />
 	<!-- Sepolicy -->
 	<project path="device/qcom/sepolicy_vndr/sm6225" name="ChresthaManish/device_qcom_sepolicy_vndr_sm6225" remote="github" revision="lineage-21.0-caf-sm6225" />
 	<!-- Xiaomi Hardware -->
