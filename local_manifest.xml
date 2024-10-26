@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<!-- Device Tree -->
+	<project path="device/xiaomi/tapas" name="ChresthaManish/device_xiaomi_tapas" remote="github" revision="14" />
+	<!-- Vendor Tree -->
+	<project path="vendor/xiaomi/tapas" name="ChresthaManish/vendor_xiaomi_tapas" remote="github" revision="14" />
+	<!-- Kernel Tree -->
+	<project path="device/xiaomi/tapas-kernel" name="ChresthaManish/device_xiaomi_tapas-kernel" remote="github" revision="14" />
+	<!-- Xiaomi Hardware -->
+	<project path="hardware/xiaomi" name="PixelOS-AOSP/hardware_xiaomi" remote="github" revision="fourteen" />
+</manifest>                                                                                                                                    
