@@ -22,4 +22,5 @@
 	<project path="hardware/qcom-caf/sm6225/dataipa" name="SM6225-Underground/vendor_qcom_opensource_dataipa" remote="github" revision="lineage-21" />
 	<project path="hardware/qcom-caf/sm6225/display" name="ChresthaManish/hardware_qcom_display" remote="github" revision="lineage-21" />
 	<project path="hardware/qcom-caf/sm6225/media" name="SM6225-Underground/hardware_qcom_media" remote="github" revision="lineage-21" />
+    <project path="device/xiaomi/sepolicy" name="ChresthaManish/device_xiaomi_sepolicy" remote="github" revision="lineage-21" />
 </manifest>                                                                                                                                    
