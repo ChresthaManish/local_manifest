@@ -9,7 +9,7 @@
 	<!-- Xiaomi Hardware -->
 	<project path="hardware/xiaomi" name="PixelOS-Fifteen/hardware_xiaomi" remote="github" revision="fifteen" />
 	<!-- Sepolicy -->
-	<project path="device/qcom/sepolicy_vndr/sm6225" name="SM6225-Underground/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21" />
+	<project path="device/qcom/sepolicy_vndr/sm6225" name="ChresthaManish/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21" />
 	<!-- Hardware Projects -->
 	<linkfile src="os_pickup_audio-ar.mk" dest="hardware/qcom-caf/sm6225/audio/Android.mk" />
 	<linkfile src="os_pickup_qssi.bp" dest="hardware/qcom-caf/sm6225/Android.bp" />
