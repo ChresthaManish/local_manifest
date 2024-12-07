@@ -7,7 +7,7 @@
 	<!-- Kernel Tree -->
 	<project path="device/xiaomi/topaz-kernel" name="ChresthaManish/device_xiaomi_topaz-kernel" remote="github" revision="lineage-22" />
 	<!-- Xiaomi Hardware -->
-	<project path="hardware/xiaomi" name="PixelOS-Fifteen/hardware_xiaomi" remote="github" revision="fifteen" />
+	<project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-22.0" />
 	<!-- Sepolicy -->
 	<project path="device/qcom/sepolicy_vndr/sm6225" name="ChresthaManish/device_qcom_sepolicy_vndr" remote="github" revision="lineage-21" />
 	<!-- Hardware Projects -->
